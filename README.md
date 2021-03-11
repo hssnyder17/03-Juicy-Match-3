@@ -4,7 +4,7 @@ Project 03 from MSCH-C220 10 March 2021
 # Implementation
 Built using Godot 3.2.3
 
-# Refrences
+# References
 Snake noise: .Gomi on Free Sound
 
 Premium Font: Apex Mark 2 by Jeremy Nelson
